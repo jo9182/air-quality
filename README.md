@@ -1,7 +1,9 @@
 Air Quality
 -----------
 
-Checks various air quality indicators and display's the result. Measures temperature, pressure, humidity, VOCs, CO2, and Particulate matter
+Checks various air quality indicators and display's the result. 
+
+Measures temperature, pressure, humidity, VOCs, CO2, and particulate matter.
 
 Built with
 
@@ -14,6 +16,10 @@ Built with
 * Any USB-C power supply
 
 Todo:
-* add a button and make the screen stay off most of the time to avoid OLED burn-in
-* record the some history and display it
+* understand the different PM2.5 units better
+* add a button, then  
+    * make the screen stay off most of the time to avoid OLED burn-in (and/or switch to a TFT)
+    * create a main screen with an overall summary and additional screens that dive deeper in to specific stats
+* record the some history and create a way to display it
 * calculate the "feels like" temperature
+* house everything in a nice container
